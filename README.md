@@ -70,5 +70,3 @@ A smart home system manages appliances such as **SmartWashingMachine** and **Sma
   * Method: `controlRemotely()`
 * Implement both in `SmartWashingMachine`.
 
-
-Do you want me to do that?
