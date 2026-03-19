@@ -1,4 +1,5 @@
 #  25K3108-OOP-LAB-8-TASKS
+(each task in its own package inside src folder)
 
 ## 1. Payment System
 
